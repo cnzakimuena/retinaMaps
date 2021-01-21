@@ -196,7 +196,7 @@ fileName2 = fullfile(patientsFolder,'rvTable.xls');
 writetable(rtTable,fileName1)
 writetable(rvTable,fileName2)
 
-disp(logit(patientFolder,'Done retinaMaps'))
+disp(logit(patientsFolder,'Done retinaMaps'))
 
             
             
